@@ -1,4 +1,4 @@
-ST=()
+LIST=()
 
 while [[ 1 ]] 
         do
