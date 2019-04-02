@@ -1,3 +1,4 @@
+#!/bin/bash
 LIST=()
 
 while [[ 1 ]] 
