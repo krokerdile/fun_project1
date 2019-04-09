@@ -1,4 +1,5 @@
-ST=()
+#!/bin/bash
+LIST=()
 
 while [[ 1 ]] 
         do
